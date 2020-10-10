@@ -1,7 +1,0 @@
-PhasmoPhobia Changelog V1.03
--Added a ghost appear/disappear toggle
--Added timer control for hand camera
-
-TODO:
-Try to take away other players power to kick if not host
-Ghost interactability when dead
