@@ -7,6 +7,8 @@ This is a fork of the PhasmoPhobia Config by Fiskybusiness.  I plan on adding a 
 * A: Probably not.  The only anti-cheat that i've found checks for a balance over 250k (then sets it back to 100).  
 * Q: I have problem X and don't know what to do.  Help pls?
 * A: Create an issue post. Do not add me on Discord for bug reports.
+* Q: I have a suggestion and would rather DM it to you. Can I add you on Discord?
+* A: Chroma#1000.  
 
 ## Getting Started
 
