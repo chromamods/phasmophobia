@@ -1,6 +1,12 @@
 # Phasmophobia Chroma
 
-This is a fork of the PhasmoPhobia Config.  I plan on adding a bunch of useful functions, however, uploading what I have now as an initial release.
+This is a fork of the PhasmoPhobia Config by Fiskybusiness.  I plan on adding a bunch of useful functions, however, uploading what I have now as an initial release.
+
+## FAQ
+* Q: Will this get me banned?
+* A: Probably not.  The only anti-cheat that i've found checks for a balance over 250k (then sets it back to 100).  
+* Q: I have problem X and don't know what to do.  Help pls?
+* A: Create an issue post. Do not add me on Discord for bug reports.
 
 ## Getting Started
 
