@@ -14,6 +14,8 @@ This is a fork of the PhasmoPhobia Config by Fiskybusiness.  I plan on adding a 
 * Step 2: Copy the Assembly DLL and modconfig.cfg to your Phasmophobia install location, and overwrite the DLL (<SteamInstallLocation>\steamapps\common\Phasmophobia\Phasmophobia_Data\Managed)
 * Step 3: Configure the values in modconfig.cfg to your liking
 * Step 4: Launch the game and enjoy.
+ 
+**Note:** Do not add any comments to the modconfig.cfg file.  Doing so will cause issues (probably) and I won't help troubleshoot if I see any in the config.
 
 ### Known Bugs
 
