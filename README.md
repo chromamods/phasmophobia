@@ -8,7 +8,13 @@ This is a fork of the PhasmoPhobia Config by Fiskybusiness.  I plan on adding a 
 * Q: I have problem X and don't know what to do.  Help pls?
 * A: Create an issue post. Do not add me on Discord for bug reports.
 * Q: I have a suggestion and would rather DM it to you. Can I add you on Discord?
-* A: Chroma#1000.  
+* A: Chroma#1000. 
+* Q: Can modding /really/ corrupt save data?
+* A: Don't mod your level and experience.  Simply using the client to add more players won't hurt anything.
+* Q: Does modding your client hurt server performance?
+* A: Don't make public lobbies.  Do it all in private ones as to not disrupt the game for others, ESPECIALLY if you start messing with the amount of ghosts that spawn.
+* Q: Is modding officially supported through Phasmophobia?
+* A: Nope, and likely never will be. 
 
 ## Getting Started
 
@@ -24,6 +30,8 @@ This is a fork of the PhasmoPhobia Config by Fiskybusiness.  I plan on adding a 
 * The Game will likely break when multiple players die at the same time. Having tens of ghosts is risky in this sense. This is due to how the game handles death and would probably require a full re-write to support fully. Consider games with 3+ Ghosts to be "for fun"
 
 * Currently, the 'fullItems' flag is purely visual. Enabling this will prevent items from spawning.  I'll fix this at some point, but for now, leave it as-is.
+
+* Setting item maxes was recently discovered to be non functional (setting it only as an appearance client side).  I'm working on finding a solution and will post an updated version as soon as I get it functional.  
 
 ### serverPlayers
 
